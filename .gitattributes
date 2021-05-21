@@ -1,8 +1,1 @@
-Content/PolygonMilitary/Meshes/Characters/Attachments/Patches/* filter=lfs diff=lfs merge=lfs -text
-Content/PolygonMilitary/Meshes/Vehicles/Vehicle_Attachments/* filter=lfs diff=lfs merge=lfs -text
-Content/PolygonMilitary/Meshes/Weapons/Modular/Weapon_B/* filter=lfs diff=lfs merge=lfs -text
-Content/PolygonMilitary/Meshes/Weapons/Modular/Weapon_A/* filter=lfs diff=lfs merge=lfs -text
-Content/PolygonMilitary/Meshes/Weapons/Modular/Presets/* filter=lfs diff=lfs merge=lfs -text
-Content/PolygonMilitary/Meshes/Weapons/Modular/Crosshairs/* filter=lfs diff=lfs merge=lfs -text
-Content/PolygonMilitary/Meshes/Weapons/Modular/Attachments/* filter=lfs diff=lfs merge=lfs -text
-Content/PolygonMilitary/Meshes/Weapons/Modular/Attachments/Scopes/* filter=lfs diff=lfs merge=lfs -text
+
